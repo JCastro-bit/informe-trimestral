@@ -120,7 +120,7 @@ function pogody(){
 	
 	/*Typed js*/
 	$("#typed").typed({
-		strings: [" Back Soon", " Stay Tuned", " Almost There"],
+		strings: [" Informe", " de actividades ", "trimestral"],
 		typeSpeed: 100,
 		backDelay: 900,
 		loop: true,
